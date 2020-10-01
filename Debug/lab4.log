@@ -1,0 +1,4 @@
+﻿  lab4.cpp
+D:\Code\C++ OR C Projects\lab4\editor.h(8,13): warning C4101: 'matrix': unreferenced local variable
+D:\Code\C++ OR C Projects\lab4\lab4.cpp(8,18): warning C4101: 'j': unreferenced local variable
+  lab4.vcxproj -> D:\Code\C++ OR C Projects\lab4\Debug\lab4.exe
